@@ -1,0 +1,2 @@
+time step:	 3.90625000000000E-0003
+window size:	1599
